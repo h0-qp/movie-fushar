@@ -3,4 +3,3 @@ requests
 pytelegrambotapi
 python-dotenv
 user-agent
-json
