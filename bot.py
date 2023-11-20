@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardButton as btn
 from telebot.types import InlineKeyboardMarkup as km
 
 from user_agent import generate_user_agent, generate_navigator
-from config import TOKEM
+from config import TOKEN
 
 bot = telebot.TeleBot(TOKEN)
 
