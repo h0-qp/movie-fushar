@@ -1,1 +1,1 @@
-python3 botStory_5_acc.py
+python3 bot.py
