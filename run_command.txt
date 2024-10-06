@@ -1,1 +1,1 @@
-gunicorn app:app & python3 botStory_5_acc.py
+gunicorn app:app & python3 bot.py
