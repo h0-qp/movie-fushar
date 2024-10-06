@@ -1,0 +1,1 @@
+worker: python3 botStory_5_acc.py
