@@ -1,1 +1,1 @@
-worker: python3 botStory_5_acc.py
+worker: python3 bot.py
