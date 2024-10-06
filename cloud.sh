@@ -1,1 +1,1 @@
-gunicorn app:app --daemon && python botStory_5_acc.py
+gunicorn app:app --daemon && python bot.py
